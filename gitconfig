@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = pan.nichada@gmail.com
+	name = Nichada Wongrassamee
